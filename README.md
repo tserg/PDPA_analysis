@@ -5,3 +5,6 @@ Final project for NUS Artificial Intelligence, Information Science & Law AY2016/
 ## Instructions
 1. Download the files
 1. Change the file path of pdpa_data.csv at line 83
+
+## Team members
+Benjamin Ng, Ho Fai, Terence Teoh and Gary Tse
